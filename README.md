@@ -61,6 +61,7 @@
 可以直接點擊下方連結或開啟本地檔案進行遊玩：
 
 👉 **[立即遊玩《霓虹戰姬》]([index.html](https://share.gemini.google/juar8WqfEwy5))** *(請確保 `index.html` 與相關資產位於同一目錄下)*
+https://share.gemini.google/juar8WqfEwy5
 
 ---
 
